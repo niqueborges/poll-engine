@@ -26,3 +26,5 @@ logs/
 # Documentação ignorada
 AI_RULES.md
 ARCHITECTURE.md
+# Código gerado
+src/infrastructure/database/prisma/client/
