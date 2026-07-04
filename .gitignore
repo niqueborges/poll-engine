@@ -1,2 +1,30 @@
+# Node.js / NestJS padrão
+node_modules/
+dist/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+.pnpm-debug.log*
+
+# Testes
+coverage/
+
+# Variáveis de ambiente
+.env
+.env.test
+.env.production
+
+# Arquivos do SO
+.DS_Store
+Thumbs.db
+
+# Logs
+logs/
+*.log
+
+# Documentação ignorada
 AI_RULES.md
-Architecture.md
+ARCHITECTURE.md
+# Código gerado
+src/infrastructure/database/prisma/client/
