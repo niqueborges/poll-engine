@@ -1,6 +1,8 @@
 
 # Poll Service
 
+[![Continuous Integration](https://github.com/niqueborges/poll-engine/actions/workflows/ci.yml/badge.svg)](https://github.com/niqueborges/poll-engine/actions/workflows/ci.yml)
+
 ## Visão Geral
 
 O Poll Service é um serviço responsável pelo gerenciamento de enquetes e votações em tempo real.
